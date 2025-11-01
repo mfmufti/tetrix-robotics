@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Family\\Documents\\Arduino\\libraries\\Adafruit_TCS34725",
+                "C:\\Users\\Family\\Documents\\Arduino\\libraries\\Grove_-_I2C_Color_Sensor",
+                "C:\\Users\\Family\\Documents\\Arduino\\libraries\\TETRIX_PRIZM",
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "${workspaceFolder}/**",
+                "C:/msys64/usr/lib/gcc/x86_64-pc-msys/9.1.0/include/c++/tr1",
+                "C:/msys64/usr/include",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include"
+            ],
+            "forcedInclude": [
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+            ],
+            "compilerPath": "C:\\msys64\\usr\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "defines": [
+                "USBCON"
+            ]
+        }
+    ],
+    "version": 4
+}
